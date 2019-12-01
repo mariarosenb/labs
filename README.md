@@ -8,10 +8,10 @@ These are a few of my programming labs completed during my first semester of stu
 
  №  |  Issue  |  Tasks
  :-:|:------: | :-----:
- 5 | Typical programming techniques| [Link](https://onedrive.live.com/edit.aspx?resid=7D406F6A23DF5161!408&ithint=file%2cdocx)
- 6 | Programming of iterative cyclic computing processes | [Link](https://onedrive.live.com/edit.aspx?resid=7D406F6A23DF5161!410&ithint=file%2cdocx)
- 7 | One-dimensional arrays | [Link](https://onedrive.live.com/edit.aspx?resid=7D406F6A23DF5161!412&ithint=file%2cdocx)
- 8 | Multidimensional arrays | [Link](https://onedrive.live.com/edit.aspx?resid=7D406F6A23DF5161!414&ithint=file%2cdocx)
+ 5 | Typical programming techniques| [Link](https://drive.google.com/file/d/1sS0E6CaKf9HpZ1CkoYKKVvU37wDGI-LB/view?usp=sharing)
+ 6 | Programming of iterative cyclic computing processes | [Link](https://drive.google.com/file/d/17xD6m1ny9KTLEZFOoC56RHBuQVd7w3M4/view?usp=sharing)
+ 7 | One-dimensional arrays | [Link](https://drive.google.com/file/d/1Q0E-_gT-B-83XFUZV3LFJs-lvqfgPhQF/view?usp=sharing)
+ 8 | Multidimensional arrays | [Link](https://drive.google.com/file/d/1XMXs1ZyTJRLuT_PW8BumjGxn81wc7kTv/view?usp=sharing)
  
  
  ## How to execute code
