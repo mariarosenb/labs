@@ -4,7 +4,7 @@ These are a few of my programming labs completed during my first semester of stu
 
 **Programming language:** C ++
 
-**Program used:** Visual Studio 2019
+**Programs that can be used:** Visual Studio, DEV C++
 
  №  |  Issue  |  Tasks
  :-:|:------: | :-----:
